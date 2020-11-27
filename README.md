@@ -1,4 +1,4 @@
-#   [다나눠]
+﻿#   [다나눠]
 
 ###  팀명: Five Men(FM)
 
@@ -41,12 +41,6 @@
 
 ### 5. 기술 스택📚 
 
-####    
-
-    <Backend>  
-     - Spring boot
-     - maria-db
-     
 ####
 
 	<A.I>
@@ -61,5 +55,5 @@
 ####    
 
     <Server>  
-     - AWS
-     - Docker
+	
+     - vGPU Server(Linux)
